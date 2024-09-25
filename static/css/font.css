@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: 'Merriweather';
-  font-style: normal;
+  font-style: Times New Roman; 
   font-weight: 300;
   src: url('../font/light.eot'); /* IE9 Compat Modes */
   src: url('../font/light.eot') format('embedded-opentype'), /* IE6-IE8 */
